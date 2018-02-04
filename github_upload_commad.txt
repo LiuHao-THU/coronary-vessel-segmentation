@@ -2,4 +2,4 @@ git add .
 git commit -m "your commit"  
 git push -u origin master 
 
-test 
+https://itk.org/ITKExamples/src/IO/GDCM/ReadDICOMSeriesAndWrite3DImage/Documentation.html
